@@ -4,7 +4,8 @@ This python file provides support for searching the phrase queries using Positio
 
 Dataset Used : 20 newsgroups
 
-Assumptions :   - Phrase query length to be of length less than equal to 5.
+Assumptions : 
+                - Phrase query length to be of length less than equal to 5.
                 - Build indexes only for comp.graphics and rec.motorcycles.
             
    
