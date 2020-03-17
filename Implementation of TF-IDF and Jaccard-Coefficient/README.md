@@ -12,11 +12,14 @@ Preprocessing steps :
             -- Converting numbers into words
             
             
-Implementation Methods :
+Methods Implemented :
 
  - ***Jaccard Coefficient based document retrieval*** : For each query, the model will output top k documents based on jaccard score.
  - ***Tf-Idf based document retrieval*** : For each query, the model will output top k documents based on tf-idf-matching-score. Here we have implemented all the versions of tf i.e natural,logarithmic,augmented,boolean,log average.
  - ***Tf-Idf based vector space document retrieval*** : For each query, the model will output top k documents based on a cosine similarity between query and document vector.
+ - Given special attention to the terms in the document title.
+ 
+ 
 
 
 
