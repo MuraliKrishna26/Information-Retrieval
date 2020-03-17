@@ -2,6 +2,8 @@
 
 This python file has the implementaion of Unigram Inverted Index and Queries with bolean operator such as and,or,not.
 
+Dataset Used : 20 newsgroups.
+
 Provide support for the following commands:
 
 
