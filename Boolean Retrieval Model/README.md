@@ -22,6 +22,16 @@ Given a query, the model outputs :
       - the list of documents retrieved.
 
 
+Preprocessing used : 
+
+
+                - Removal of stop words.
+                - Removal of Block words(These are hand annotated).
+                - Tokenization.
+                - Lemmatization.
+                - Tokens with less than length 2 are not considered.
+
+
 
 
 
