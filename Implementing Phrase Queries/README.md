@@ -13,5 +13,11 @@ Assumptions :
 Preprocessing used : 
 
 
+                - Removal of stop words.
+                - Tokenization.
+                - Lemmatization.
+                - Tokens with less than length 2 are not considered.
+
+
 
 
