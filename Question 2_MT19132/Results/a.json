@@ -1,0 +1,32 @@
+{
+  "head": {
+    "vars": [ "t" , "d" , "cod" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "t": { "type": "uri" , "value": "http://netflix.org//Question//_Krish_Trish_and_Baltiboy:_Battle_of_Wits" } ,
+        "d": { "type": "literal" , "value": " Tilak Shetty" } ,
+        "cod": { "type": "literal" , "value": "Munjal Shroff" }
+      } ,
+      {
+        "t": { "type": "uri" , "value": "http://netflix.org//Question//_Krish_Trish_and_Baltiboy:_The_Greatest_Trick" } ,
+        "d": { "type": "literal" , "value": " Tilak Shetty" } ,
+        "cod": { "type": "literal" , "value": "Munjal Shroff" }
+      } ,
+      {
+        "t": { "type": "uri" , "value": "http://netflix.org//Question//_Krish_Trish_and_Baltiboy:_Best_Friends_Forever" } ,
+        "d": { "type": "literal" , "value": " Tilak Shetty" } ,
+        "cod": { "type": "literal" , "value": "Munjal Shroff" }
+      } ,
+      {
+        "t": { "type": "uri" , "value": "http://netflix.org//Question//_Krish_Trish_and_Baltiboy:_Oversmartness_Never_Pays" } ,
+        "d": { "type": "literal" , "value": "Tilak Shetty" }
+      } ,
+      {
+        "t": { "type": "uri" , "value": "http://netflix.org//Question//_Krish_Trish_and_Baltiboy:_Comics_of_India" } ,
+        "d": { "type": "literal" , "value": "Tilak Shetty" }
+      }
+    ]
+  }
+}

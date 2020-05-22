@@ -1,0 +1,18 @@
+{
+  "head": {
+    "vars": [ "title" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "title": { "type": "uri" , "value": "http://netflix.org//Question//_Good_People" }
+      } ,
+      {
+        "title": { "type": "uri" , "value": "http://netflix.org//Question//_ATM" }
+      } ,
+      {
+        "title": { "type": "uri" , "value": "http://netflix.org//Question//_6_Years" }
+      }
+    ]
+  }
+}
